@@ -25,7 +25,10 @@ const repeat = async (page, arrayProducts) => {
   const products = await page.$$('.plp-fragment-wrapper')
 
   for (const product of products) {
-    const img = await product.$eval('.plp-product__image', (e) => e.src)
+    const img = await product.$eval('.plp-product__image', (e) => e.src)  //este selector que antes iba bien y que no he tocado, ha comenzado a fallar de repente. 
+    //da este error failed to find element matching selector ".plp-image.plp-product__image" no lo entiendo porque iba bien. Aunque da ese fallo, recoge los datos que ves en el .json.
+    
+    
     const name = await product.$eval(
       '.notranslate.plp-price-module__product-name',
       (e) => e.textContent
