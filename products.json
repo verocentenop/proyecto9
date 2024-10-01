@@ -1,1 +1,56 @@
-[{"img":"https://www.ikea.com/es/es/images/products/strandmon-sillon-orejero-nordvalla-gris-oscuro__0325432_pe517964_s5.jpg?f=xxs","name":"STRANDMON","description":"Sillón orejero","price":"239"},{"img":"https://www.ikea.com/es/es/images/products/ekenaset-sillon-kilanda-beige-claro__1109687_pe870153_s5.jpg?f=xxs","name":"EKENÄSET","description":"Sillón","price":"189"},{"img":"https://www.ikea.com/es/es/images/products/poang-sillon-chapa-abedul-knisa-beige-claro__0571500_pe666933_s5.jpg?f=xxs","name":"POÄNG","description":"Sillón","price":"99"},{"img":"https://www.ikea.com/es/es/images/products/vedbo-sillon-con-respaldo-alto-gunnared-gris-oscuro__0512775_pe638684_s5.jpg?f=xxs","name":"VEDBO","description":"Sillón con respaldo alto","price":"299"},{"img":"https://www.ikea.com/es/es/images/products/arsunda-sillon-knisa-gris-claro__1276550_pe930953_s5.jpg?f=xxs","name":"ÅRSUNDA","description":"Sillón","price":"55"},{"img":"https://www.ikea.com/es/es/images/products/herrakra-sillon-diserod-amarillo-oscuro__1213667_pe911203_s5.jpg?f=xxs","name":"HERRÅKRA","description":"Sillón","price":"149"},{"img":"https://www.ikea.com/es/es/images/products/ektorp-sillon-hakebo-gris-oscuro__1242740_pe920368_s5.jpg?f=xxs","name":"EKTORP","description":"Sillón","price":"249"},{"img":"https://www.ikea.com/es/es/images/products/agen-silla-ratan-bambu__31428_pe120743_s5.jpg?f=xxs","name":"AGEN","description":"Silla","price":"59"},{"img":"https://www.ikea.com/es/es/images/products/kivik-sofa-cama-1-p-tibbleby-beis-gris__1130878_pe877951_s5.jpg?f=xxs","name":"KIVIK","description":"Sofá cama 1 p","price":"499"}]
+[
+  {
+    "img": "https://www.ikea.com/es/es/images/products/strandmon-sillon-orejero-nordvalla-gris-oscuro__0325432_pe517964_s5.jpg?f=xxs",
+    "name": "STRANDMON",
+    "description": "Sillón orejero",
+    "price": "239"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/ekenaset-sillon-kilanda-beige-claro__1109687_pe870153_s5.jpg?f=xxs",
+    "name": "EKENÄSET",
+    "description": "Sillón",
+    "price": "189"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/poang-sillon-chapa-abedul-knisa-beige-claro__0571500_pe666933_s5.jpg?f=xxs",
+    "name": "POÄNG",
+    "description": "Sillón",
+    "price": "99"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/vedbo-sillon-con-respaldo-alto-gunnared-gris-oscuro__0512775_pe638684_s5.jpg?f=xxs",
+    "name": "VEDBO",
+    "description": "Sillón con respaldo alto",
+    "price": "299"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/arsunda-sillon-knisa-gris-claro__1276550_pe930953_s5.jpg?f=xxs",
+    "name": "ÅRSUNDA",
+    "description": "Sillón",
+    "price": "55"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/herrakra-sillon-diserod-amarillo-oscuro__1213667_pe911203_s5.jpg?f=xxs",
+    "name": "HERRÅKRA",
+    "description": "Sillón",
+    "price": "149"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/ektorp-sillon-hakebo-gris-oscuro__1242740_pe920368_s5.jpg?f=xxs",
+    "name": "EKTORP",
+    "description": "Sillón",
+    "price": "249"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/agen-silla-ratan-bambu__31428_pe120743_s5.jpg?f=xxs",
+    "name": "AGEN",
+    "description": "Silla",
+    "price": "59"
+  },
+  {
+    "img": "https://www.ikea.com/es/es/images/products/kivik-sofa-cama-1-p-tibbleby-beis-gris__1130878_pe877951_s5.jpg?f=xxs",
+    "name": "KIVIK",
+    "description": "Sofá cama 1 p",
+    "price": "499"
+  }
+]
